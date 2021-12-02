@@ -1,1 +1,2 @@
-console.log('Welcome to notes app.This is app.js')
+console.log('Welcome to notes app.This is app.js');
+
